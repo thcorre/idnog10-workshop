@@ -1,8 +1,8 @@
-# Welcome to the Nokia workshop @ PhNOG 2025!
+# Welcome to the Nokia workshop @ IDNOG 10!
 
 This page is your starting point into the workshop, it should get you familiar with the lab environment provided by Nokia and provide an overview of the suggested sample activities.
 
-During this day you will work in groups on the pre-provided lab activities.
+During these 2 days you will work in groups on the pre-provided lab activities.
 
 As long as you have a laptop with the ability to SSH, you should be good to go. 
 
@@ -92,7 +92,7 @@ The above topology contains a number of functional blocks to help you in area's 
 
 ### Help! I've bricked my lab, how do I redeploy? 
 
-When accessing your workshop host, you'll see the PhNOG2025 directory is a clone of this repository.
+When accessing your workshop host, you'll see the IDNOG10 directory is a clone of this repository.
 
 The labs covered in this workshops (powered by [containerlab](https://www.containerlab.dev)), are available for you to use.
 
@@ -100,8 +100,8 @@ If you have broken something and would like to restore the state without extensi
 
 ```sh
 cd $HOME/
-clab destroy -t phnog2025-workshop/dc-lab/dc.phnog2025.clab.yml --cleanup 
-clab deploy -t phnog2025-workshop/dc-lab/dc.phnog2025.clab.yml --reconfigure
+clab destroy -t idnog10-workshop/dc-lab/dc.idnog10.clab.yml --cleanup 
+clab deploy -t idnog10-workshop/dc-lab/dc.idnog10.clab.yml --reconfigure
 ```
 
 ## Cloning this repository
@@ -112,17 +112,17 @@ This can be done using one of the following commands below.
 
 ### HTTPS (Recommended)
 ```sh
-git clone https://github.com/thcorre/phnog2025-workshop.git
+git clone https://github.com/thcorre/idnog10-workshop.git
 ```
 
 ### SSH
 ```sh
-git clone git@github.com:thcorre/phnog2025-workshop.git
+git clone git@github.com:thcorre/idnog10-workshop.git
 ```
 
 ### GitHub CLI
 ```sh
-gh repo clone thcorre/phnog2025-workshop
+gh repo clone thcorre/idnog10-workshop
 ```
 
 ## Useful links
