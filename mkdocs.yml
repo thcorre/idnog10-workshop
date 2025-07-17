@@ -1,6 +1,6 @@
-site_name: 🇵🇭 PHNOG 2025
+site_name: 🇮🇩 IDNOG 2025
 nav:
-  - Home: index.md
+  - Home: README.md
   - Getting Started:
     - Install Containerlab: 05-install/README.md
     - Containerlab basics: 10-basics/README.md
