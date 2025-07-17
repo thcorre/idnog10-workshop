@@ -1,4 +1,5 @@
 site_name: 🇮🇩 IDNOG 10
+repo_name: idnog10-workshop
 repo_url: https://github.com/thcorre/idnog10-workshop
 nav:
   - Home: README.md
