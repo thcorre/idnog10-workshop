@@ -3,7 +3,7 @@
 !!! info "Disclaimer"
     This lab is based on [srl-sros-telemetry-lab](https://github.com/srl-labs/srl-sros-telemetry-lab). (Kudos to Marlon Paz, Roman Dodin and Kevin Todts). 
     
-    We have modified the lab for this workshop to better align with the latest DC best practices (IPv6 underlay infra, Usage of BGP unnumbered underlay with IPv6 link-locals, BFD sessions used on eBGP peers, optimized BGP timers etc.) and to also demonstrate additional EVPN capabilities like All-Active multihoming.
+We have modified the lab for this workshop to better align with the latest DC best practices (IPv6 underlay infra, Usage of BGP unnumbered underlay with IPv6 link-locals, BFD sessions used on eBGP peers, optimized BGP timers etc.) and to also demonstrate additional EVPN capabilities like All-Active multihoming.
 
 This lab represents a small Clos DC fabric with [Nokia SR Linux](https://learn.srlinux.dev/) switches running as containers.
 
