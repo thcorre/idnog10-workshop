@@ -79,7 +79,7 @@ When accessing your group instance you'll see this repository has already been c
 !!! question "Will I interfere with other groups?"
     Don't worry: This is your personal group network, you cannot impact any other groups.
 
-![topology](./phnog2025-workshop-topology.png)
+![topology](./idnog10-workshop-topology.png)
 
 The above topology contains a number of functional blocks to help you in area's you might want to focus on, it contains:
 
