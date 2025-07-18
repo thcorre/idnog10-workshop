@@ -47,7 +47,7 @@ Each group has a web VS Code environment available, multiple users are available
 
 Navigate to `group<GROUP ID>.topologies.dev` and log in with your group password.
 
-![](./vscode.png)
+![](./vscode2.png)
 
 ### SSH
 
