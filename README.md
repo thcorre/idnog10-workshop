@@ -15,8 +15,6 @@ A list of workshop modules. Each module is a self-contained guide that can be fo
 
 Use the [official slide deck](https://drive.google.com/file/d/1uUZn2GOEd4rE1D13k7w9s_F4YnX8rlDX/view?usp=drive_link) to follow along with the workshop.
 
-[Nokia IP Networks](https://drive.google.com/file/d/1V_ebSyPzyPG21PzYYz7sKXXKPHO5F0_q/view?usp=drive_link)
-
 [DC Lab hands-on workshop deck](https://drive.google.com/file/d/1o3OBwA6sascWly5skip942loOca-pDrc/view?usp=drive_link)
 
 1. [Containerlab Installation](05-install/README.md) guide
